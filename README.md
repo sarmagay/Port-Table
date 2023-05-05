@@ -10,3 +10,6 @@ connection.
 To transform our desk into a smart and tangible interface, we integrated the necessary sensors and electronics. We developed various prototypes based on feedback 
 from our classmates and professor, and eventually settled on a backpack design that included a desktop. This was the most efficient and portable solution since all 
 students carry a bag or backpack to hold their belongings, eliminating the need for an additional item.
+
+The Getting_BPM_to_Monitor(2).ino code combines the heart sensor, led lighting, and fan activation code.
+The BluefruitConfig.h, packetParser.cpp, and controller.ino files contain the code for the Flora Bluefruit circuit, connecting our phones to the device via bluetooth.
