@@ -1,4 +1,5 @@
 # Port-Table
+### Sangly
 CS 320 Final Project
 
 We started our project by conducting a series of brainstorming sessions, during which we collaborated with AI to generate a multitude of innovative ideas. 
